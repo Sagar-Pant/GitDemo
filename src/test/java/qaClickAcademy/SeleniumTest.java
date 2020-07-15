@@ -15,4 +15,10 @@ public class SeleniumTest {
         System.out.println("Elements Ui");
         System.out.println("Excellent Automation");
     }
+    @Test
+    public void WebAutomation()
+    {
+        System.out.println("Web Automation");
+        System.out.println("Superb Automation");
+    }
 }
