@@ -18,5 +18,6 @@ public class RESTAPITest {
     @Test
     public void maintainTwitter() {
         System.out.println("Maintain Twitter Account");
+        System.out.println("Twitter Roxxxx!!!");
     }
 }
